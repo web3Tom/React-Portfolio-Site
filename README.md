@@ -1,6 +1,6 @@
 # Personal Portfolio Site (react.js)
 
-To visit this version deployed, visit Tj.Curran.me
+To visit this version deployed, visit TjCurran.me
 
 ## `Dependencies`
 
