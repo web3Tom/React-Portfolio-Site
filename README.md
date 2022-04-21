@@ -22,9 +22,9 @@ To visit this version deployed, visit Tj.Curran.me
 
 - styled-components animation of Header > h1 element
 
-- react.js best practices with extensive use of useState hooks and react icons
+- React.js best practices with extensive use of useState hooks and react icons
 
-- leveraged EmailJS and SwiperJS
+- Leveraged EmailJS and SwiperJS
 
 - Use of modern CSS3 under BEM framework
 
