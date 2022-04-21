@@ -1,4 +1,4 @@
-# Personal Portfolio Site bootstrapped with react.js
+# Personal Portfolio Site (react.js)
 
 To visit this version deployed, visit Tj.Curran.me
 
