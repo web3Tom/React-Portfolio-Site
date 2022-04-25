@@ -21,8 +21,8 @@ const About = () => {
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon" />
-              <h5>Experience</h5>
-              <small>1 Year Experience</small>
+              <h5>Programming Experience</h5>
+              <small>3 Years</small>
             </article>
 
             <article className="about__card">
@@ -33,19 +33,21 @@ const About = () => {
           </div>
           <h2>Front End Experience</h2>
           <p>
-            I am hobbyist Web Developer with a working proficiency in HTML, CSS
-            and Javascript. I have experience working with popular frameworks
-            such as React.js, Next.js and GraphQL and have a solid understanding
-            of Node.js and Git version control. I also have professional
-            experience working with Adobe Photoshop, Illustrator, InDesign and
-            XD.
+            I am a hobbyist Web Developer with a working proficiency in HTML,
+            CSS and Javascript. I have experience working with popular
+            frameworks such as React.js, Next.js and GraphQL and have a solid
+            understanding of Node.js and Git version control. I also have
+            professional experience working with Adobe Photoshop, Illustrator,
+            and InDesign, and having working knowledge of XD.
           </p>
           <h2>Prior Experience</h2>
           <p>
             I spent 6 years working in finance and consulting. My most recent
-            position was as a data analyst for a financial consulting company.
-            During this time I became an expert in VBA programming, financial
-            modeling and proficient in Bloomberg API and Apex coding languages.
+            position was as a data analyst for a financial consulting company
+            where I helped deploy multiple financial applications and CRM
+            workflows. During this time I became adept in VBA programming and
+            proficent in APEX and Bloomberg API, and developed department-wide
+            financial processes for onboarding client data.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
