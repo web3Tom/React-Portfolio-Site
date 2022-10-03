@@ -1,6 +1,6 @@
-import React from "react";
-import "./experience.css";
-import { BsFillPatchCheckFill } from "react-icons/bs";
+import React from 'react';
+import './experience.css';
+import { BsFillPatchCheckFill } from 'react-icons/bs';
 
 export const Experience = () => {
   return (
@@ -22,21 +22,56 @@ export const Experience = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>CSS3</h4>
-                <small className="text-light">Intermediate</small>
+                <h4>CSS</h4>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>Javascript</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>React</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>styled-componenets</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>NextJS</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Redux</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Tailwind</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>SASS</h4>
+                <h4>Framer Motion</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
@@ -44,79 +79,16 @@ export const Experience = () => {
         </div>
         {/* END OF FRONTEND */}
 
-        <div className="experience__frameworks">
-          <h3>Frontend Frameworks</h3>
-          <div className="experience__content">
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>React.js</h4>
-                <small className="text-light">Intermediate</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>styled components</h4>
-                <small className="text-light">Beginner</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>Tailwind</h4>
-                <small className="text-light">Beginner</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>Next.js</h4>
-                <small className="text-light">Beginner</small>
-              </div>
-            </article>
-          </div>
-        </div>
-        {/* END OF FRAMEWORKS */}
-
-        <div className="experience__design">
-          <h3>Design Applications</h3>
-          <div className="experience__content">
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>Adobe Photoshop</h4>
-                <small className="text-light">Intermediate</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>Adobe Illustrator</h4>
-                <small className="text-light">Intermediate</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>Adobe InDesign</h4>
-                <small className="text-light">Intermediate</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>Adobe XD</h4>
-                <small className="text-light">Beginner</small>
-              </div>
-            </article>
-          </div>
-        </div>
-        {/* END OF DESIGN APPLICATIONS   */}
-
         <div className="experience__backend">
           <h3>Backend Development</h3>
           <div className="experience__content">
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Python</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
@@ -129,6 +101,13 @@ export const Experience = () => {
               <div>
                 <h4>Netlify</h4>
                 <small className="text-light">Beginner</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Firebase</h4>
+                <small className="text-light">Intermidate</small>
               </div>
             </article>
           </div>

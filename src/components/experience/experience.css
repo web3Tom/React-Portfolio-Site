@@ -6,7 +6,7 @@
 
 .experience__container > div {
   background: var(--color-bg-variant);
-  padding: 2.4rem 5rem;
+  padding: 2.4rem 3.2rem;
   border-radius: 2rem;
   border: 1px solid transparent;
   transition: var(--transition);
@@ -27,6 +27,7 @@
 .experience__content {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  column-gap: 3rem;
   row-gap: 2rem;
 }
 

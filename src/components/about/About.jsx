@@ -21,7 +21,7 @@ const About = () => {
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon" />
-              <h5>Programming Experience</h5>
+              <h5>Front-End Experience</h5>
               <small>3 Years</small>
             </article>
 
@@ -33,12 +33,14 @@ const About = () => {
           </div>
           <h2>Front End Experience</h2>
           <p>
-            I am a hobbyist Web Developer with a working proficiency in HTML,
-            CSS and Javascript. I have experience working with popular
-            frameworks such as React.js, Next.js and GraphQL and have a solid
-            understanding of Node.js and Git version control. I also have
-            professional experience working with Adobe Photoshop, Illustrator,
-            and InDesign, and having working knowledge of XD.
+            I am a Freelance Web Developer proficient in React, JavaScript,
+            HTML5, CSS, and numerous other web-based technologies. Along with
+            React, I have experience working with other popular frameworks such
+            as Next.js and GraphQL, leveraging Redux and functional hooks in
+            React projects, TypeScript, and employing backend services such as
+            Firebase and Netlify. I've completed numerous client projects with
+            deliverables encompassing all stages of the web-design process
+            inlcuding wireframing to applying SEO techniques.
           </p>
           <h2>Prior Experience</h2>
           <p>
